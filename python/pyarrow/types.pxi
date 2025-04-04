@@ -6021,7 +6021,8 @@ def from_numpy_dtype(object dtype):
 
     Parameters
     ----------
-    dtype : the numpy dtype to convert
+    dtype : object
+        The numpy dtype to convert.
 
 
     Examples
